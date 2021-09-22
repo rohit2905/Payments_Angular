@@ -1,5 +1,10 @@
 # Payments
 
+!["Screen 1"](/Screenshots/1.png)
+!["Screen 2"](/Screenshots/2.png)
+!["Screen 3"](/Screenshots/3.png)
+!["Screen 4"](/Screenshots/4.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
